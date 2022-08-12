@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brad/static/css/main.2f4305ec.css",
+    "main.js": "/brad/static/js/main.8525e53b.js",
+    "static/js/787.0c3f432a.chunk.js": "/brad/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/brad/index.html",
+    "main.2f4305ec.css.map": "/brad/static/css/main.2f4305ec.css.map",
+    "main.8525e53b.js.map": "/brad/static/js/main.8525e53b.js.map",
+    "787.0c3f432a.chunk.js.map": "/brad/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f4305ec.css",
+    "static/js/main.8525e53b.js"
+  ]
+}
